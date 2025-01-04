@@ -1,6 +1,6 @@
 //
 //  EdamesApp.swift
-//  Edames
+//  Education games
 //
 //  Created by Kia Dalili on 1/4/25.
 //
