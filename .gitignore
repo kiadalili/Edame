@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/ 
